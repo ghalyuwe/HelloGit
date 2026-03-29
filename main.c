@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Engineering Students!\n");
+    int speed = 100;
+    printf("Speed = %d km/h\n", speed);
     return 0;
 }
